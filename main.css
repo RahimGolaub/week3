@@ -1,0 +1,23 @@
+/*
+This is a comment.
+*/
+
+/* Add the rule to change the colour of the paragraph. */
+/* Target element, then specify the rule. */
+p{
+    /*All the rules in the paragrah go here*/
+    color: red;
+    /* Going forward, we wont use colour names. We will use hex codes. */
+}
+h1{ color: grey}
+
+ol{ color:aqua}
+
+ul{color: aqua}
+
+img{
+    opacity: .9;
+    width: 200px;
+    height: 200px;
+    
+}
